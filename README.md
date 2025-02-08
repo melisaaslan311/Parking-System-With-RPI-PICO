@@ -56,3 +56,8 @@ The Smart Parking System is an automated solution designed to manage parking ava
 -Reset Mechanism:
 1)Pressing the reset button restores parking availability to 6 slots.
 ![final_homework_bb](https://github.com/user-attachments/assets/3cba55ff-48c8-45f9-865f-d6674379f52b)
+
+
+
+https://github.com/user-attachments/assets/7c1f0e93-c17c-4523-a3de-da709a6c15e8
+
